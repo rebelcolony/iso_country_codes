@@ -1018,7 +1018,7 @@ class IsoCountryCodes
     end
     class PSE < Code #:nodoc:
       self.numeric = %q{275}
-      self.name    = %q{Palestine, State of}
+      self.name    = %q{Palestine}
       self.alpha2  = %q{PS}
       self.alpha3  = %q{PSE}
     end
@@ -1300,7 +1300,7 @@ class IsoCountryCodes
     end
     class SYR < Code #:nodoc:
       self.numeric = %q{760}
-      self.name    = %q{Syrian Arab Republic}
+      self.name    = %q{Syria}
       self.alpha2  = %q{SY}
       self.alpha3  = %q{SYR}
     end
@@ -1318,7 +1318,7 @@ class IsoCountryCodes
     end
     class TZA < Code #:nodoc:
       self.numeric = %q{834}
-      self.name    = %q{Tanzania, United Republic of}
+      self.name    = %q{Tanzania}
       self.alpha2  = %q{TZ}
       self.alpha3  = %q{TZA}
     end
@@ -1408,13 +1408,13 @@ class IsoCountryCodes
     end
     class GBR < Code #:nodoc:
       self.numeric = %q{826}
-      self.name    = %q{United Kingdom of Great Britain and Northern Ireland}
+      self.name    = %q{United Kingdom}
       self.alpha2  = %q{GB}
       self.alpha3  = %q{GBR}
     end
     class USA < Code #:nodoc:
       self.numeric = %q{840}
-      self.name    = %q{United States of America}
+      self.name    = %q{United States}
       self.alpha2  = %q{US}
       self.alpha3  = %q{USA}
     end
@@ -1444,13 +1444,13 @@ class IsoCountryCodes
     end
     class VEN < Code #:nodoc:
       self.numeric = %q{862}
-      self.name    = %q{Venezuela (Bolivarian Republic of)}
+      self.name    = %q{Venezuela}
       self.alpha2  = %q{VE}
       self.alpha3  = %q{VEN}
     end
     class VNM < Code #:nodoc:
       self.numeric = %q{704}
-      self.name    = %q{Viet Nam}
+      self.name    = %q{VietNam}
       self.alpha2  = %q{VN}
       self.alpha3  = %q{VNM}
     end
@@ -1498,4 +1498,3 @@ class IsoCountryCodes
     end
   end # end Code
 end # IsoCountryCodes
-
